@@ -1,5 +1,5 @@
 /*
-Justin Klein 2023 All rights reserved.
+Justin Klein 2023
 This program tokenizes user-inputted lisp code and writes it into a parse tree,
 barring that the code is syntatically correct.
 Lisp Grammar:
